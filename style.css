@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lightblue;
+    padding: 5px;
+}
+header a{
+    color: black;
+    text-dicoration: none;
+    background-color: white;
+}
+h1{
+    color: purple;
+    text-align: center;
+}
+footer{
+    color: lightblue;
+    padding: 10px;
+}
+footer p{
+    backgroud-color: lightcyan;
+    color: black;
+}
+
+nav{
+    background-color: green;
+    color: lightcyan;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
